@@ -1,0 +1,10 @@
+D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+D:\a\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+D:\a\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+D:\a\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+D:\a\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+D:\a\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+D:\a\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+D:\a\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
